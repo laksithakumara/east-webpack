@@ -1,1 +1,1 @@
-# east-webpack
+# Easy Webpack
