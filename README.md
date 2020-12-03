@@ -26,7 +26,7 @@ npm run production
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Django-React, please send an e-mail to Laksitha Kumara via [laksithakumara@gmail.com](mailto:laksithakumara@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Easy Webpack, please send an e-mail to Laksitha Kumara via [laksithakumara@gmail.com](mailto:laksithakumara@gmail.com). All security vulnerabilities will be promptly addressed.
 
 
 ## License
